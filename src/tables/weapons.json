@@ -1,0 +1,38 @@
+{
+    "Armas": [
+        "Revolver",
+        "Faca",
+        "Veneno",
+        "Corda",
+        "Chave inglesa",
+        "Castiçal",
+        "Pistola",
+        "Martelo",
+        "Tesoura",
+        "Seringa"
+    ],
+    "Locais": [
+        "Biblioteca",
+        "Sala de estar",
+        "Cozinha",
+        "Jardim",
+        "Escritório",
+        "Quarto principal",
+        "Sala de jantar",
+        "Porão",
+        "Sótão",
+        "Garagem"
+    ], 
+    "Dicas" : [
+        "A {{arma}} foi encontrada na {{local}}, mas havia uma impressão digital suspeita nela.",
+        "Testemunhas viram o {{suspeito}} perto da {{arma}} pouco antes do crime.",
+        "A {{arma}} foi posicionada de maneira estranha na {{local}}, sugerindo que foi plantada.",
+        "Resíduos de {{substância}} foram encontrados na {{arma}}, indicando uma luta.",
+        "Houve um ruído alto vindo da {{local}} logo antes do crime ser descoberto.",
+        "A posição do corpo na {{local}} sugere que a vítima foi pega de surpresa.",
+        "Uma janela aberta na {{local}} indica uma possível rota de fuga.",
+        "O {{suspeito}} estava suando e nervoso ao sair da {{local}}.",
+        "Uma joia valiosa desaparecida na {{local}} sugere um motivo financeiro.",
+        "O {{suspeito}} tinha uma ferida que parece corresponder ao tipo de ataque feito com a {{arma}}."
+    ]
+}

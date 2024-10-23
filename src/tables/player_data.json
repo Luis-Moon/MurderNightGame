@@ -1,0 +1,48 @@
+{
+    "O Anfitrião": {
+        "Nome": "Luis",
+        "Papel": "O Anfitrião",
+        "Descrição": "Um colecionador de arte excêntrico, com um passado misterioso."
+    },
+    "A Esposa do Anfitrião": {
+        "Nome": "Jess",
+        "Papel": "A Esposa do Anfitrião",
+        "Descrição": "Uma socialite elegante, com um sorriso enigmático e um olhar que esconde muitos segredos."
+    },
+    "O Convidado de Honra": {
+        "Papel": "O Convidado de Honra",
+        "Descrição": "Um escritor famoso, conhecido por seus romances policiais e com uma reputação duvidosa."
+    },
+    "A Joia da Família": {
+        "Papel": "A Joia da Família",
+        "Descrição": "Uma jovem herdeira, mimada e com um temperamento explosivo."
+    },
+    "O Detetive Amado": {
+        "Papel": "O Detetive Amado",
+        "Descrição": "Um ex-policial, agora aposentado, mas com uma mente afiada e uma paixão por resolver mistérios."
+    },
+    "A Governanta": {
+        "Papel": "A Governanta",
+        "Descrição": "Uma mulher discreta e leal, que conhece todos os segredos da casa."
+    },
+    "O Jardineiro": {
+        "Papel": "O Jardineiro",
+        "Descrição": "Um homem forte e silencioso, com um passado obscuro."
+    },
+    "A Cozinheira": {
+        "Papel": "A Cozinheira",
+        "Descrição": "Uma senhora excêntrica, com receitas secretas e um temperamento explosivo."
+    },
+    "O Advogado da Família": {
+        "Papel": "O Advogado da Família",
+        "Descrição": "Um homem astuto e calculista, que cuida dos interesses legais da família."
+    },
+    "O Médico da Família": {
+        "Papel": "O Médico da Família",
+        "Descrição": "Um médico respeitado, mas com um passado de escândalos médicos."
+    },
+    "O Amigo de Infância": {
+        "Papel": "O Amigo de Infância",
+        "Descrição": "Um amigo de longa data do anfitrião, com segredos compartilhados do passado."
+    }
+}
